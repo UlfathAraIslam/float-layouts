@@ -1,4 +1,4 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -16,9 +16,8 @@ h2{
 .wrapper{
     width: 80%;
     margin: auto;
-} */
-/* layout-1 */
-/* .logo{
+}
+.logo{
     width: 100%;
     padding: 15px;
     background: lightgray;
@@ -72,65 +71,4 @@ h2{
     background: lightgray;
     text-align: center;
     clear: both;
-} */
-
-
-/* layout-2 */
-/* nav{
-    width: 100%;
-    padding: 10px;
-    background-color: lightgray;
-    margin-bottom: 10px;
 }
-.logo{
-    width: 50%;
-    float: left;
-    font-weight: bold;
-    font-size: 25px;
-}
-.nav{
-    width: 50%;
-    text-align: right;
-    padding-right: 100px;
-    float: right;
-}
-.clearfix::after{
-    content: '';
-    display: block;
-    clear: both;
-}
-header, .intro{
-    width: 100%;
-    padding: 25px;
-    background-color: lightgray;
-    text-align: center;
-}
-.intro{
-    margin: 10px 0;
-}
-main{
-    width: 100%;
-    min-height: 400px;
-}
-
-main div{
-    width: 30%;
-    height: 400px;
-    line-height: 400px;
-    text-align: center;
-    background-color: lightgray;
-    float: left;
-    margin-bottom: 10px;
-
-}
-main div:nth-child(2){
-    margin-left: 5%;
-    margin-right: 5%;
-}
-
-footer{
-    width: 100%;
-    background: lightgray;
-    padding: 10px;
-    text-align: center;
-} */
